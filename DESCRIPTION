@@ -1,9 +1,9 @@
 Package: MyPackage
 Type: Package
-Title: What the package does (short line)
+Title: provides functions for new projects
 Version: 1.0
 Date: 2019-03-17
 Authors@R: Dorothy Fraysier <dfraysier@mail.usf.edu> [aut], [cre]
-Description: 
-Depends: 
-License: What license is it under?
+Description: This package is where new projects will be created in. New tools will be added for more functions and be a containment of the information
+Depends: 3.1.0
+License: CCO
