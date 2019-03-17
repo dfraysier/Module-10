@@ -1,0 +1,9 @@
+Package: MyPackage
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2019-03-17
+Authors@R: Dorothy Fraysier <dfraysier@mail.usf.edu> [aut], [cre]
+Description: 
+Depends: 
+License: What license is it under?
